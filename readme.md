@@ -53,16 +53,3 @@ References:
 * https://www.epic.dk/2018/08/28/remove-unnecessary-packages-from-raspbian-stretch/
 * https://github.com/Drewsif/PiShrink
 
-
-Example Playbook
-----------------
-
-Including an example of how to use your role (for instance, with variables
-passed in as parameters) is always nice for users too:
-
-    - hosts: servers
-      roles:
-         - { role: limepepper.raspberrypi, x: 42 }
-
-License
--------
